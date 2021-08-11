@@ -6,5 +6,6 @@ Para el envio de email con Sendgrid, agregar al properties:
 Para la autenticacion de usuarios y obtencion del token:
 - username : "jmd"
 - password : "jmd"
+
 En el headers:
 - Authorization : "Bearer" +" "+ (token)
